@@ -82,7 +82,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <Link to="/" ref={logoRef} className="flex items-center gap-2">
             <img 
-              src="/lovable-uploads/2f1b365d-c75e-43b7-a6aa-042297f454e5.png" 
+              src="/e-uploads/2f1b365d-c75e-43b7-a6aa-042297f454e5.png" 
               alt="Klyfton Solutions Logo" 
               className="h-12" 
             />

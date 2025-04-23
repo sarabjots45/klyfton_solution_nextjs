@@ -98,7 +98,7 @@ export default {
                 'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
                 'gradient-blue': 'linear-gradient(90deg, #42C6EA 0%, #2A7DE1 100%)',
                 'gradient-blue-vertical': 'linear-gradient(180deg, #42C6EA 0%, #2A7DE1 100%)',
-                'hero-pattern': 'url("/public/lovable-uploads/2f1b365d-c75e-43b7-a6aa-042297f454e5.png"), linear-gradient(109.6deg, rgba(223,234,247,0.1) 11.2%, rgba(244,248,252,0.1) 91.1%)'
+                'hero-pattern': 'url("/public/e-uploads/2f1b365d-c75e-43b7-a6aa-042297f454e5.png"), linear-gradient(109.6deg, rgba(223,234,247,0.1) 11.2%, rgba(244,248,252,0.1) 91.1%)'
             },
 			boxShadow: {
                 glass: '0 8px 32px 0 rgba(31, 38, 135, 0.1)',

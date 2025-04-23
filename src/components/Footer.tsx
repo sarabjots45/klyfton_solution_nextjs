@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="space-y-4">
             <Link to="/" className="inline-block">
               <img 
-                src="/lovable-uploads/2f1b365d-c75e-43b7-a6aa-042297f454e5.png" 
+                src="/e-uploads/2f1b365d-c75e-43b7-a6aa-042297f454e5.png" 
                 alt="Klyfton Solutions Logo" 
                 className="h-14" 
               />
